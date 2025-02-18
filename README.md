@@ -1,5 +1,4 @@
 # Data Science Portfolio - Kin Hong Tan
-This portfolio is a compilation of all the Data Science projects I have done for academic and self-learning purposes. This portfolio is updated on the regular basis.
 
 - **Email**: [khtan47@outlook.com](khtan47@outlook.com)
 - **LinkedIn**: [linkedin.com/kin-hong-tan](https://www.linkedin.com/in/kin-hong-tan/)
@@ -10,7 +9,7 @@ This portfolio is a compilation of all the Data Science projects I have done for
 
 [Placeholder]. 
 
-<br />
+<br/>
 
 ## Micro Projects
 - ### Statistics and Machine Learning
@@ -19,9 +18,9 @@ This portfolio is a compilation of all the Data Science projects I have done for
  
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
-- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
+- **Methodologies**: Placeholder.
+- **Languages**: Placeholder.
+- **Tools**: Placeholder.
 
 ## Certificates
 
