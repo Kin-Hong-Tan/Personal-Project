@@ -1,14 +1,8 @@
 # Data Science Portfolio - Kin Hong Tan
 This portfolio is a compilation of all the Data Science projects I have done for academic and self-learning purposes. This portfolio is updated on the regular basis.
 
-- **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
-- **LinkedIn**: [linkedin.com/archd3sai](https://www.linkedin.com/in/archd3sai/)
-
-## Achievements
-- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
-- [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
-- Winner of a TAMU Datathon 2020 among 50+ teams.
-- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
+- **Email**: [khtan47@outlook.com](khtan47@outlook.com)
+- **LinkedIn**: [linkedin.com/kin-hong-tan](https://www.linkedin.com/in/kin-hong-tan/)
 
 ## Projects
 
