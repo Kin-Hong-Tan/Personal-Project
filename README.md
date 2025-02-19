@@ -18,6 +18,8 @@
 - Collaborated with multi-disciplinary teams to troubleshoot and resolve technical challenges using a methodical approach grounded in data analysis and process optimization.
 
 ## Projects
+
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 ### Comparative Analysis of Large Language Models for Aspect-Based Sentiment Analysis
 [Link](https://ieeexplore.ieee.org/document/10504711)
 
