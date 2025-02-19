@@ -1,9 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL
+#### Technical Skills: Python,R, SQL; Tableau, Power BI; Machine Learning, TensorFlow, PyTorch; Amazon Web Service, Google Cloud Platform; Deep Learning, Natural Language Processing (NLP)
 
 ## Education							       		
-- M.S., Data Science | University Malaya (_Mar 2023 - Feb 2025_)	 			        		
+- M.S., Data Science | University Malaya (_Feb 2025_)	 			        		
 - B.S., Mech. Eng. | Monash University Malaysia (_Dec 2017_)
 
 ## Work Experience
@@ -26,5 +26,4 @@
 Description 1.
 
 ## Certifications
-1. Placeholder 1
-2. Placeholder 2
+1. [Develop Your Skills with Large Language Models](https://www.linkedin.com/company/1337/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZdI2RTqnSZCZ2N%2FjiEGttg%3D%3D)
