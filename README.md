@@ -1,6 +1,7 @@
 # Data Scientist
 
-#### Technical Skills: Python,R, SQL; Tableau, Power BI; Machine Learning, TensorFlow, PyTorch; Amazon Web Service, Google Cloud Platform; Deep Learning, Natural Language Processing (NLP)
+#### Technical Skills: 
+Python,R, SQL; Tableau, Power BI; Machine Learning, TensorFlow, PyTorch; Amazon Web Service, Google Cloud Platform; Deep Learning, Natural Language Processing (NLP)
 
 ## Education							       		
 - M.S., Data Science | University Malaya (_Feb 2025_)	 			        		
