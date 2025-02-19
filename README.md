@@ -15,10 +15,15 @@
 
 ## Projects
 
-### Comparative Analysis of Large Language Models for Aspect-Based Sentiment Analysis
-[Link](https://ieeexplore.ieee.org/document/10504711)
+### Masters of Data Science Research Project
+[Link](https://github.com/Kin-Hong-Tan/Masters-of-Data-Science-Research-Project)
 
-Comparing the performance of GPT-4o-mini by Open AI, Gemini 1.5 Flash 8B and Gemini 1.0 Pro in aspect-based sentiment analysis using state-of-the-arts ABSA public datasets. Results demonstrate superior performance of LLMs as compared to LTSM-based & BERT-based models.
+This repository contains the official code and documentation for the research project titled "Comparative Analysis of Large Language Models (LLMs) and Traditional Models for Aspect-Based Sentiment Analysis (ABSA)." The study evaluates and contrasts the performance of LLMs like GPT-4o-mini, Gemini 1.5 Flash 8B and Gemini 1.0 Pro with traditional models like LSTM and DeBERTa in the context of ABSA.
+
+### Masters of Data Science Coursework
+[Link](https://github.com/Kin-Hong-Tan/Master-of-Data-Science-Coursework)
+
+This repository contains the official code and documentation for my coursework of Masters of Data Science @ University of Malaya
 
 ## Certifications
 1. [Develop Your Skills with Large Language Models](https://www.linkedin.com/in/kin-hong-tan/details/certifications/1727580488311/single-media-viewer/?profileId=ACoAAB06pRMBd_ZZ1T7ezkloRoDjI-KDsFS7LEc)
