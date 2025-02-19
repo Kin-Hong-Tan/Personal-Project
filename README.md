@@ -1,4 +1,4 @@
-# Data Scientist
+# Master of Data Science Student
 
 #### Technical Skills: Python, SQL, Tableau, PyToch/TensorFlow, NLP, AWS/GCP
 
