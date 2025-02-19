@@ -1,12 +1,12 @@
 # Data Scientist
 
 #### Technical Skills: 
-- Data Manipulation & Analysis: Python, R, SQL
-- Data Visualisation: Power BI, Tableau
-- Machine Learning Algorithms: Supervised, Unsupervised, Deep Learning, Natural Language Processing (NLP)
-- Big Data: Hadoop, Hive, Spark
-- ML Libraries & Frameworks: PyTorch, TensorFlow
-- Cloud Platform: Amazon Web Service (AWS), Google Cloud Platform (GCP)
+- *Data Manipulation*: Python, R, SQL
+- *Data Visualisation*: Power BI, Tableau
+- *ML Algorithms*: Supervised, Unsupervised, Deep Learning, Natural Language Processing (NLP)
+- *Big Data*: Hadoop, Hive, Spark
+- *ML Frameworks*: PyTorch, TensorFlow
+- *Cloud Platform*: Amazon Web Service (AWS), Google Cloud Platform (GCP)
 
 ## Education							       		
 - M.S., Data Science | University Malaya (_Feb 2025_)	 			        		
