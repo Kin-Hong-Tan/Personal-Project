@@ -4,7 +4,7 @@
 
 ## Education							       		
 - M.S., Data Science | University Malaya (_Mar 2023 - Feb 2025_)	 			        		
-- B.S., Mechanical Engineering | Monash University Malaysia (_Dec 2017_)
+- B.S., Mech. Eng. | Monash University Malaysia (_Dec 2017_)
 
 ## Work Experience
 **Senior SEO Specialist @ SearchGuru by NP Digital (_Feb 2021 - Apr 2023_)**
