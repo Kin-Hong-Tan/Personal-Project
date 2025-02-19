@@ -1,28 +1,16 @@
-# Data Science Portfolio - Kin Hong Tan
+# Data Scientist
 
-- **Email**: [khtan47@outlook.com](khtan47@outlook.com)
-- **LinkedIn**: [linkedin.com/kin-hong-tan](https://www.linkedin.com/in/kin-hong-tan/)
+#### Technical Skills: Python, SQL
 
-## Projects
+## Education							       		
+- M.S., Data Science | University Malaya (_Feb 2025_)	 			        		
+- B.S., Mechanical Engineering | Monash University Malaysia (_Dec 2017_)
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+## Work Experience
+**Senior SEO Specialist @ SearchGuru Sdn  (_June 2022 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-[Placeholder]. 
-
-<br/>
-
-## Micro Projects
-- ### Statistics and Machine Learning
-    - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : Placeholder.
-
- 
-## Core Competencies
-
-- **Methodologies**: Placeholder.
-- **Languages**: Placeholder.
-- **Tools**: Placeholder.
-
-## Certificates
-
-- [Develop Your Skills with Large Language Models](https://www.linkedin.com/in/kin-hong-tan/details/certifications/1727580488311/single-media-viewer/?profileId=ACoAAB06pRMBd_ZZ1T7ezkloRoDjI-KDsFS7LEc)
-
+**Process & Equipment Engineer @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
