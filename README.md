@@ -19,7 +19,7 @@
 
 ## Projects
 ### Comparative Analysis of Large Language Models for Aspect-Based Sentiment Analysis
-[Link](https://www.mdpi.com/1424-8220/22/8/3048](https://ieeexplore.ieee.org/document/10504711/)
+[Link](https://ieeexplore.ieee.org/document/10504711)
 
 Description 1.
 
