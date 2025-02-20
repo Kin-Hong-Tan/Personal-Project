@@ -25,5 +25,10 @@ This repository contains the official code and documentation for the research pr
 
 This repository contains the official code and documentation for my coursework of Masters of Data Science @ University of Malaya
 
+### Personal Project
+[Link](https://github.com/Kin-Hong-Tan/Personal-Project)
+
+This repository contains the official code and documentation for my personal discovery in Generative AI.
+
 ## Certifications
 1. [Develop Your Skills with Large Language Models](https://www.linkedin.com/in/kin-hong-tan/details/certifications/1727580488311/single-media-viewer/?profileId=ACoAAB06pRMBd_ZZ1T7ezkloRoDjI-KDsFS7LEc)
