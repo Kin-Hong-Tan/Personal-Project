@@ -7,11 +7,14 @@
 - B.S., Mech. Eng. | Monash University Malaysia (_Dec 2017_)
 
 ## Work Experience
-**Senior SEO Specialist @ SearchGuru by NP Digital (_Feb 2021 - Apr 2023_)**
-- Led data-driven SEO and ASO strategies across various industries, including digital wallets, startup incubators, furniture e-commerce, insurance, aesthetic clinics, electric vehicles, fitness, and mobile marketplace. Utilized Python for keyword analysis and SQL for managing large-scale datasets.
+**Senior SEO Specialist @ SearchGuru by NP Digital (_Feb 2021 - Apr 2024_)**
+- Top performer in consecutive reviews, entrusted to lead Search Engine Optimisation (SEO) strategies and oversee site revamps for major accounts (Great Eastern and Boost by Axiata); drove innovation for retainers such as Comfort Furniture using Google BigQuery; supported client pitches for Boost Bank and CIMB.
+- Spearheaded technical SEO initiatives by integrating ChatGPT for task automation and content creation. Led department-wide upskilling sessions and knowledge sharing on AI adoption.
+- Led App Store Optimization (ASO) efforts for Boost & InstaCash, boosting their visibility and conversion within 1 month. Established ASO workflow & best practices for revenue growth.
 
 **Process & Equipment Engineer @ Intel Corporation (_Jan 2018 - Feb 2021_)**
-- Applied advanced statistical analysis and data-driven methods to optimize semiconductor manufacturing processes. Developed and implemented predictive models to improve operational efficiency, minimizing equipment downtime and enhancing production yield. 
+- Optimized semiconductor manufacturing with statistical analysis (SPC), enhancing efficiency.
+- Automated operations using Python, SQL & JMP, reducing downtime & boosting production yield. 
 
 ## Projects
 
@@ -28,7 +31,7 @@ This repository contains the official code and documentation for my coursework o
 ### Personal Project
 [Link](https://github.com/Kin-Hong-Tan/Personal-Project)
 
-This repository contains the official code and documentation for my personal discovery in LLM Powered Applications (Search and Recommendation Engines with LLMs).
+This repository contains the official code and documentation for my personal discovery in LLM Powered Applications (Search and Recommendation Engines).
 
 ## Certifications
 1. [Develop Your Skills with Large Language Models](https://www.linkedin.com/in/kin-hong-tan/details/certifications/1727580488311/single-media-viewer/?profileId=ACoAAB06pRMBd_ZZ1T7ezkloRoDjI-KDsFS7LEc)
