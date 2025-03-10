@@ -29,7 +29,7 @@ This repository contains the official code and documentation for the research pr
 This repository contains the official code and documentation for my coursework of Masters of Data Science @ University of Malaya
 
 ### Personal Project
-[Link](Recommender%System)
+[Link](Recommender%20System)
 
 This repository contains the official code and documentation for my personal discovery in LLM Powered Applications (Search and Recommendation Engines).
 
