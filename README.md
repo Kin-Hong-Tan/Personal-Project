@@ -31,7 +31,7 @@ This repository contains the official code and documentation for my coursework o
 ### Personal Project
 [Link](Recommender%20System)
 
-This repository contains the official code and documentation for my personal discovery in LLM Powered Applications (Search and Recommendation Engines).
+This repository contains the official code and documentation for my personal discovery in Data Science Applications (Current Focus: Recommendation Engines).
 
 ## Certifications
 1. [Develop Your Skills with Large Language Models](https://www.linkedin.com/in/kin-hong-tan/details/certifications/1727580488311/single-media-viewer/?profileId=ACoAAB06pRMBd_ZZ1T7ezkloRoDjI-KDsFS7LEc)
