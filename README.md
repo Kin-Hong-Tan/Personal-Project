@@ -44,3 +44,13 @@ This repository contains the official code and documentation for my personal dis
 - Stakeholder Management / Presentation
 
 **Intermediate**
+- Large Language Models (LLMs) / Generative AI
+- Tableau / Power BI
+- AWS / GCP
+- Big Data (Big Query / Apache Spark)
+- Recommendation Systems
+
+**Basic**
+- Azure
+- Linux
+- Natural Language Processing (NLP)
