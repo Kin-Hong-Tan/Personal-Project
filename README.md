@@ -8,7 +8,7 @@
 
 ## Work Experience
 **Senior SEO Specialist @ SearchGuru by NP Digital (_Feb 2021 - Apr 2024_)**
-- Top performer in consecutive reviews, entrusted to lead Search Engine Optimisation (SEO) strategies and oversee site revamps for major accounts (Great Eastern and Boost by Axiata); drove innovation for retainers such as Comfort Furniture using Google BigQuery; supported client pitches for Boost Bank and CIMB.
+- Top performer in consecutive reviews, entrusted to lead Search Engine Optimisation (SEO) strategies and oversee site revamps for major accounts (Great Eastern and Boost by Axiata). Drove innovation for retainers such as Comfort Furniture using Google BigQuery. Supported client pitches for Boost Bank and CIMB.
 - Spearheaded technical SEO initiatives by integrating ChatGPT for task automation and content creation. Led department-wide upskilling sessions and knowledge sharing on AI adoption.
 - Led App Store Optimization (ASO) efforts for Boost & InstaCash, boosting their visibility and conversion within 1 month. Established ASO workflow & best practices for revenue growth.
 
