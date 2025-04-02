@@ -33,7 +33,7 @@ This repository contains the official code and documentation for my personal dis
 
 ## Certifications
 1. [Develop Your Skills with Large Language Models](https://www.linkedin.com/in/kin-hong-tan/details/certifications/1727580488311/single-media-viewer/?profileId=ACoAAB06pRMBd_ZZ1T7ezkloRoDjI-KDsFS7LEc)
-2. [AWS Cloud Foundations]
+2. AWS Cloud Foundations
    
 ## Hard Skills
 
