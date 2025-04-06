@@ -27,7 +27,7 @@ This repository contains the official code and documentation for the research pr
 This repository contains the official code and documentation for my coursework of Masters of Data Science @ University of Malaya
 
 ### Personal Project
-[Link](Recommender%20System)
+[Link](recommender%20project)
 
 This repository contains the official code and documentation for my personal discovery in Data Science Applications (Current Focus: Recommendation Engines).
 
