@@ -27,7 +27,7 @@ This repository contains the official code and documentation for the research pr
 This repository contains the official code and documentation for my coursework of Masters of Data Science @ University of Malaya
 
 ### Personal Project
-[Link](recommender%20project)
+[Link](https://github.com/Kin-Hong-Tan/Personal-Project/tree/main/recommender-project)
 
 This repository contains the official code and documentation for my personal discovery in Data Science Applications (Current Focus: Recommendation Engines).
 
