@@ -1,0 +1,3 @@
+# dbt project config
+name: digibank360
+version: '1.0'
