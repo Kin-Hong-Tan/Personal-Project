@@ -1,0 +1,3 @@
+# 📊 Digibank Analytics Portfolio
+
+This repository contains end-to-end BI & analytics solutions for a digital banking use case...
