@@ -1,0 +1,8 @@
+digibank_profile:
+  target: dev
+  outputs:
+    dev:
+      type: sqlite
+      threads: 1
+      database: ':memory:'
+      schema: main
