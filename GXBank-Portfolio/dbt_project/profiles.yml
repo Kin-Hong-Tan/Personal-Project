@@ -1,8 +1,8 @@
-digibank_profile:
+gxbank_profile:
   target: dev
   outputs:
     dev:
-      type: sqlite
-      threads: 1
-      database: ':memory:'
+      type: duckdb
+      path: digibank.duckdb
       schema: main
+      threads: 1
