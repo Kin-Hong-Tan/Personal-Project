@@ -5,14 +5,16 @@
 - B.S., Mech. Eng. | Monash University Malaysia (_Dec 2017_)
 
 ## Work Experience
-**Senior Analyst, Digital Marketing (SEO & ASO) @ SearchGuru by NP Digital (_Feb 2021 - Apr 2024_)**
-- Top performer in consecutive reviews, entrusted to lead Search Engine Optimisation (SEO) strategies and oversee site revamps for major accounts (Great Eastern and Boost by Axiata). Drove innovation for retainers such as Comfort Furniture using Google BigQuery. Supported client pitches for Boost Bank and CIMB.
-- Spearheaded technical SEO initiatives by integrating ChatGPT for task automation and content creation. Led department-wide upskilling sessions and knowledge sharing on AI adoption.
-- Led App Store Optimization (ASO) efforts for Boost & InstaCash, boosting their visibility and conversion within 1 month. Established ASO workflow & best practices for revenue growth.
+**Assistant SEO Manager @ SearchGuru by NP Digital (_Feb 2021 - Mar 2025_)**
+- Led SEO and App Store Optimization (ASO) strategies for multiple high-value accounts across APAC (e.g., Great Eastern, Boost, InstaCash), driving significant improvements in visibility and conversion.
+- Designed and maintained custom reporting dashboards using Google Data Studio, integrating data pipelines to optimize SEO campaigns—complementary to platforms like Tableau and Power BI.
+- Collaborated closely with internal teams and clients to align reporting insights with strategic business objectives.
+- Delivered multi-market competitive analysis and keyword intelligence to support strategic pitching for clients including Cartier and CIMB.
+- Pioneered automation workflows by integrating ChatGPT, streamlining reporting and content generation; conducted team-wide enablement sessions to enhance data literacy and promote AI adoption.
 
 **Process & Equipment Engineer @ Intel Corporation (_Jan 2018 - Feb 2021_)**
-- Optimized semiconductor manufacturing with statistical analysis (SPC), enhancing efficiency.
-- Automated operations using Python, SQL & JMP, reducing downtime & boosting production yield. 
+- Applied statistical process control (SPC) methods to improve operational efficiency and reliability in highvolume semiconductor manufacturing.
+- Built automated analytics solutions using Python, SQL, and JMP for data pipeline development, root cause analysis, and production monitoring.
 
 ## Projects
 
@@ -35,23 +37,24 @@ This repository contains the official code and documentation for my personal dis
 1. [Develop Your Skills with Large Language Models](https://www.linkedin.com/in/kin-hong-tan/details/certifications/1727580488311/single-media-viewer/?profileId=ACoAAB06pRMBd_ZZ1T7ezkloRoDjI-KDsFS7LEc)
 2. AWS Cloud Foundations
    
-## Hard Skills
+## Skills
 
-**Advanced**
-- Python / R / SQL
-- Statistics / Machine Learning & MLOps (TensorFlow/PyTorch)
-- Marketing & Business Analytics
-- SEO toolkit (Google Analytics 4, Google Search Console, Ahrefs, SEMRush, Screaming Frog)
-- Stakeholder Management / Presentation
+**Data Science**
+- Python / R / SQL 
+- Statistics / Machine Learning / MLOps(TensorFlow/PyTorch)
+- BigQuery / Data Pipeline
+- AWS / GCP / Azure 
+- Data Visualization / Dashboard Development
+- Market Research / Competitive Intelligence
 
-**Intermediate**
-- Large Language Models (LLMs) / Generative AI
-- Tableau / Power BI
-- AWS / GCP
-- Big Data (Big Query / Apache Spark)
-- Recommendation Systems
+**Marketing Analytics**
+- Search Engine Optimisation (SEO) / App Store Optimisation (ASO)
+- Google Analytics / Google Search Console
+- Ahrefs / SEMrush / Screaming Frog
+- Tableau / Power BI / Data Studio
+- HTML / CSS / JavaScript
 
-**Basic**
-- Azure
-- Linux
-- Natural Language Processing (NLP)
+**Soft Skills**
+- Project Management
+- Stakeholder Engagement
+- Client Presentation
