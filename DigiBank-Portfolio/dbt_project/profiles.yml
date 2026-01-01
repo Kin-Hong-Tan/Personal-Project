@@ -1,8 +1,0 @@
-gxbank_profile:
-  target: dev
-  outputs:
-    dev:
-      type: duckdb
-      path: digibank.duckdb
-      schema: main
-      threads: 1
